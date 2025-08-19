@@ -7,7 +7,12 @@ This project was developed as part of the Web Development Final Project.
 
 ## 👥 Team Members
 - Rodina Mohamed  
-- [Add other team members here]  
+- Farah Walid
+- bassmala Hossam
+- Mariam Ahmad
+- Nour Essam
+- Mesk Ayman
+- Yasmmen Nabil
 
 ---
 
